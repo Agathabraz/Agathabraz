@@ -4,7 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agathabraz_/ )
 
 ![Agatha Braz GitHub stats](https://github-readme-stats.vercel.app/api?username=Agathabraz&show_icons=trued&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agathabraz&layout=compact)
 
 
 <div style="display: inline_block"><br/>
